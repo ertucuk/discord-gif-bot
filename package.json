@@ -1,0 +1,19 @@
+{
+    "name": "ertu-v14",
+    "author": "Ertu",
+    "version": "14.9.0",
+    "license": "MIT",
+    "main": "bot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "bot.js"
+    },
+    "dependencies": {
+        "discord-banners": "^1.0.1",
+        "discord.js": "^14.11.0",
+        "five.db": "^0.0.8",
+        "fs": "^0.0.1-security",
+        "lethh.xyz": "^6.9.0",
+        "luppux.js": "^1.0.0"
+    }
+}
