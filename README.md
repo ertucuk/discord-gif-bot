@@ -1,3 +1,8 @@
+# Communacation
+
+* [Luppux](https://discord.gg/luppux)
+* [Discord](https://discord.com/users/136619876407050240)
+
 
 # Setup
 * First, download [Node JS](https://nodejs.org/en/) to your computer.
