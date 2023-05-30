@@ -7,9 +7,9 @@ BotVoiceChannel: "",
 BotStatus: ["ertu was here","ertu <3 luppux"],
 
 Categories: ["",""], // categories id
-RandomBannerChannel: "", // bot send to random banner
-RandomGifChannel: "", // bot send to random gif
-RandomPhotoChannel: "", // bot send to random photo
+RandomBannerChannel: "", // bot send random banner to banner channel
+RandomGifChannel: "", // bot send random gif to gif channel
+RandomPhotoChannel: "", // bot send random photo to photo channel
 GifLogChannel: "", // gif log channel
 
 VipRole: "",
