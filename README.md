@@ -1,6 +1,6 @@
 # it's not hard to be the best because ERTU is here.
 
-## Same as the bot on discord.gg/pin or even better
+## Same as the bot on discord.gg/pin or even better.
 
 ## Communication
 * [Luppux](https://discord.gg/luppux)
