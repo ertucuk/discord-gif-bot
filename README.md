@@ -1,8 +1,10 @@
-# Communacation
+# it's not hard to be the best because ERTU is here.
 
+## Same as the bot on discord.gg/pin or even better
+
+## Communication
 * [Luppux](https://discord.gg/luppux)
 * [Discord](https://discord.com/users/136619876407050240)
-
 
 # Setup
 * First, download [Node JS](https://nodejs.org/en/) to your computer.
@@ -17,16 +19,17 @@
 # Commands & Images
 
 ## Commands
-![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/0ecdf96a-0c31-498d-8b5e-f244c9c21f00)
-![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/f98f7c20-9d83-4e21-8021-f2595ef988d8)
-![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/6c4afe41-fc40-44f9-a218-8b38c74261e2)
-![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/940bacfe-8dda-4a06-b252-10566f278e8a)
-![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/7bdcb5c7-d0d6-494a-b219-837341026407)
-![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/3152deee-a80e-4d39-8a7f-445a485b3165)
+![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/2f22f141-55e0-4b70-9515-5d270e87c898)
+![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/c4cff8bf-8152-464d-a9b9-7a1814032013)
+![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/69816578-6575-4d59-9573-da054b5a9a91)
+![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/e2f4330a-0e96-422c-be04-bff74ee1189b)
+![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/d73f97d4-2da1-4c8a-a998-07fb080435e0)
+![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/445cfe22-4ede-4265-be67-b4c6e1e1fc6f)
+![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/f86dc200-35f0-4dbf-ba3b-bb954e7d56d4)
+![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/50b5bf4a-bac6-4e99-8967-8b63bc9aefe3)
+![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/dd3e99a5-c558-4971-9026-c574e67c304c)
 
 ## Events
-![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/6f75c987-8c74-4a02-9501-2efb17d288bf)
-![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/67cddac5-97fd-4f68-a86a-51bb7f68d295)
-![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/fcd88c55-d720-47c2-b3aa-e3d9074917cb)
-![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/9cccbdbd-87c8-462a-a88e-55de707a2caf)
-![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/07a211f1-25c5-4f19-943e-94365631c042)
+![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/abf85c31-10fa-4409-8c6d-74089b6f6e07)
+![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/194e3657-63a4-459a-b2ba-4e8ce128be81)
+![image](https://github.com/ertucuk/Discord-V14-Gif-Bot/assets/68440024/1cc32b04-2430-4324-b216-0b258ac2bb1f)
