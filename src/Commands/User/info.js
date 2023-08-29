@@ -1,6 +1,4 @@
 const {ActionRowBuilder,ButtonBuilder,ButtonStyle, EmbedBuilder } = require('discord.js');
-const { LethhFileLoader, YamlDatabase } = require('lethh.xyz');
-const db = (global.ErtuDB= new YamlDatabase({ Path: "./ertu.yaml"}));
 
 const {attachmentStat, messageStat, messageChannelStat} = require("../../Schemas/shema");
 
